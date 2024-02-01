@@ -68,7 +68,8 @@ footer {
     border-color: #2B2B2B;
     border-radius: 8px;
 
-    padding: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
 
     width: 100%;
 
